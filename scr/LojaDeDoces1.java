@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class LojaDeDoces {
+public class LojaDeDoces1 {
 
     public static void main(String[] args) {
         // Criando a janela
